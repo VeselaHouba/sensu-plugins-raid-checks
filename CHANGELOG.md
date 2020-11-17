@@ -14,6 +14,7 @@ Which is based on [Keep A Changelog](http://keepachangelog.com/)
 - Updated bonsai for centos8 (@VeselaHouba)
 
 ### Changed
+- Ditched support for old ruby (2.1, 2.2, 2.3.0) (@VeselaHouba)
 - Bump bundler version to 2.1 (@danragnar)
 
 ## [2.0.3] - 2019-02-17
