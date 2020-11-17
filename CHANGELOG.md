@@ -11,6 +11,7 @@ Which is based on [Keep A Changelog](http://keepachangelog.com/)
 
 ### Added
 - Add sensu bonsai asset build (@danragnar)
+- Updated bonsai for centos8 (@VeselaHouba)
 
 ### Changed
 - Bump bundler version to 2.1 (@danragnar)
