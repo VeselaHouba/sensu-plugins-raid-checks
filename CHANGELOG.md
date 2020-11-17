@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This CHANGELOG follows the format listed [here](https://github.com/sensu-plugins/community/blob/master/HOW_WE_CHANGELOG.md).
 Which is based on [Keep A Changelog](http://keepachangelog.com/)
 
-## [Unreleased]
+## [2.0.4] - 2020-11-17
 ### Breaking change
 - Change software RAID logic to return critical instead of warning (@VeselaHouba)
 - Software RAID shows status when issue found (@VeselaHouba)
