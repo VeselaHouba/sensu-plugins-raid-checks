@@ -49,7 +49,8 @@ class CheckRaid < Sensu::Plugin::Check::CLI
     if sg.empty?
       ok 'Software RAID OK'
     else
-      warning 'Software RAID warning'
+      print contents
+      critical 'Problems in software RAID'
     end
   end
 

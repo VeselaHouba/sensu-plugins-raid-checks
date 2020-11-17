@@ -5,6 +5,9 @@ This CHANGELOG follows the format listed [here](https://github.com/sensu-plugins
 Which is based on [Keep A Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
+### Breaking change
+- Change software RAID logic to return critical instead of warning (@VeselaHouba)
+- Software RAID shows status when issue found (@VeselaHouba)
 
 ### Added
 - Add sensu bonsai asset build (@danragnar)
