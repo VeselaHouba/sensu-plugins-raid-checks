@@ -15,6 +15,11 @@ Which is based on [Keep A Changelog](http://keepachangelog.com/)
 
 ### Changed
 - Ditched support for old ruby (2.1, 2.2, 2.3.0) (@VeselaHouba)
+- Bumped following specs (@VeselaHouba)
+  - bundler 2.1
+  - english 0.6.3 -> 0.7.0
+  - rake 12.3 -> 13.0
+  - sensu-plugin 1.2 -> 4.0
 - Bump bundler version to 2.1 (@danragnar)
 
 ## [2.0.3] - 2019-02-17
